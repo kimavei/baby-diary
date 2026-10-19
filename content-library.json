@@ -1,0 +1,757 @@
+{
+  "due_date": "2026-12-30",
+  "languages": {
+    "en": {
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Getting started",
+          "development": "Pregnancy dating begins from the first day of the last menstrual period, so the first two weeks are usually before conception. Ovulation and conception timing vary; an estimated due date is a guide, not a promise.",
+          "wellbeing": "Rest, sleep, and ordinary routines matter more than trying to feel a particular way. If pregnancy is possible, consider a test at the appropriate time and contact a clinician about medicines or conditions that may affect pregnancy.",
+          "nutrition": "Review any medicines and supplements with a clinician or pharmacist. Avoid alcohol and smoking; ask for help to stop if needed.",
+          "question": "What should I do before or just after a positive test?"
+        },
+        {
+          "week": 2,
+          "title": "Early foundations",
+          "development": "At this stage, conception may occur and early cell division begins. Calendar dating is approximate and does not confirm when ovulation happened.",
+          "wellbeing": "Some people notice no symptoms; others notice breast tenderness or tiredness. Symptoms alone cannot confirm how a pregnancy is progressing.",
+          "nutrition": "Take folic acid according to local clinical guidance; avoid starting high-dose supplements without advice.",
+          "question": "Which supplements and medicines are right for me?"
+        },
+        {
+          "week": 3,
+          "title": "Early development",
+          "development": "After implantation, early structures that later form the placenta and embryo begin developing. Exact timing varies, and an ultrasound may not yet show everything expected.",
+          "wellbeing": "Mild cramping can happen, but severe or one-sided pain, fainting, or heavy bleeding needs urgent assessment.",
+          "nutrition": "Choose regular meals and water; avoid treating nausea with herbs or medicines without checking safety.",
+          "question": "When should I book my first prenatal appointment?"
+        },
+        {
+          "week": 4,
+          "title": "A positive test",
+          "development": "Pregnancy hormones rise quickly. Early embryonic structures develop, but size and visibility on ultrasound depend on dating and equipment.",
+          "wellbeing": "Fatigue, nausea, smell sensitivity, or no symptoms can all occur. Seek care for dehydration, severe pain, or bleeding.",
+          "nutrition": "Small frequent meals may help nausea. Ask a clinician before using anti-nausea medicines or supplements.",
+          "question": "What symptoms should prompt a call?"
+        },
+        {
+          "week": 5,
+          "title": "Early embryo",
+          "development": "The neural tube and early organ systems are developing. This is a sensitive period, but no single food or symptom predicts an individual outcome.",
+          "wellbeing": "Rest when possible and ask for practical support. Mood changes can happen; persistent distress deserves care.",
+          "nutrition": "Folate-rich foods complement, but do not replace, recommended folic acid supplementation.",
+          "question": "Which screening and blood tests are offered?"
+        },
+        {
+          "week": 6,
+          "title": "First appointments",
+          "development": "Early heart activity may be detectable by ultrasound depending on exact dates and scan type; a scan too early can be inconclusive.",
+          "wellbeing": "Nausea and tiredness may peak for some people. There is no need to compare symptom intensity with others.",
+          "nutrition": "Try bland snacks, fluids, and small meals. Seek advice if you cannot keep fluids down or urinate much less.",
+          "question": "What will happen at the booking visit?"
+        },
+        {
+          "week": 7,
+          "title": "Early growth",
+          "development": "The embryo's body plan and limb buds develop rapidly. Measurements at this stage are approximate and ultrasound dating may adjust the due date.",
+          "wellbeing": "Gentle movement is generally helpful if your clinician has not advised restrictions. Stop and seek advice for concerning symptoms.",
+          "nutrition": "Food safety matters: follow local advice on thoroughly cooked foods, pasteurised dairy, and avoiding high-risk products.",
+          "question": "How is my due date confirmed?"
+        },
+        {
+          "week": 8,
+          "title": "Organ development",
+          "development": "Early organ structures continue forming and facial features begin to develop. Development is not visible from symptoms alone.",
+          "wellbeing": "Constipation, nausea, breast tenderness, and fatigue can occur. A gentle routine and adequate fluids may help.",
+          "nutrition": "Fibre from oats, fruit, vegetables, beans, and whole grains can support bowel regularity.",
+          "question": "What can I safely take for constipation or nausea?"
+        },
+        {
+          "week": 9,
+          "title": "End of early first trimester approaches",
+          "development": "The embryo transitions toward the fetal period as major structures continue maturing. Individual growth varies.",
+          "wellbeing": "Some symptoms may change, but symptom changes alone do not reliably indicate wellbeing. Contact your maternity team with concerns.",
+          "nutrition": "Avoid megadoses of vitamins, especially vitamin A as retinol, unless specifically prescribed.",
+          "question": "Which screening options and their limits should I understand?"
+        },
+        {
+          "week": 10,
+          "title": "First-trimester screening window",
+          "development": "The fetus continues growing and movement may occur, though it is usually too early for the pregnant person to feel it.",
+          "wellbeing": "Anxiety before screening is common. Ask what a result can and cannot tell you and what follow-up may be offered.",
+          "nutrition": "Include protein and varied produce; no single food can prevent genetic or developmental conditions.",
+          "question": "What choices do I have about screening?"
+        },
+        {
+          "week": 11,
+          "title": "Moving into the second trimester",
+          "development": "Body proportions change as bones and muscles develop. Size estimates are averages, not a target your baby must match.",
+          "wellbeing": "Energy may improve, though this varies. Keep appointments and discuss any symptoms that worry you.",
+          "nutrition": "Iron needs rise during pregnancy; ask about blood tests and supplements rather than self-prescribing high doses.",
+          "question": "What should I know about screening results?"
+        },
+        {
+          "week": 12,
+          "title": "Growth and movement",
+          "development": "The fetus moves, but movements are generally not felt yet by many first-time pregnant people. Timing varies widely.",
+          "wellbeing": "A gradual return to activity can be comfortable if pregnancy is uncomplicated. Follow individual medical advice.",
+          "nutrition": "Calcium-rich foods and adequate protein support general nutritional needs; supplements depend on diet and clinical advice.",
+          "question": "What exercise is suitable for me?"
+        },
+        {
+          "week": 13,
+          "title": "Second-trimester changes",
+          "development": "Facial features and skeletal structures continue developing. Ultrasound measurements estimate size and have a margin of error.",
+          "wellbeing": "Some people notice less nausea; others do not. Persistent vomiting or inability to hydrate needs medical advice.",
+          "nutrition": "Food variety is more useful than expensive 'superfoods'. Include vegetables, whole grains, and protein sources you enjoy.",
+          "question": "When is the anatomy scan scheduled?"
+        },
+        {
+          "week": 14,
+          "title": "Building bones and muscles",
+          "development": "Bones continue mineralising and muscles strengthen. Fetal size varies naturally between pregnancies.",
+          "wellbeing": "Back discomfort can begin as posture changes. Gentle mobility and supportive footwear may help.",
+          "nutrition": "Vitamin D and iodine guidance varies by country and individual needs; ask your clinician what is recommended locally.",
+          "question": "Do I need vitamin D, iodine, or iron testing?"
+        },
+        {
+          "week": 15,
+          "title": "Approaching the anatomy scan",
+          "development": "The fetus practises movement and swallowing. A scan checks structures but cannot identify every possible condition.",
+          "wellbeing": "If waiting for a scan feels stressful, plan questions in advance and bring a support person if allowed.",
+          "nutrition": "Fish choices matter: follow local advice on low-mercury fish and avoid high-mercury species.",
+          "question": "What does the anatomy scan assess—and what does it not?"
+        },
+        {
+          "week": 16,
+          "title": "Anatomy and detail",
+          "development": "The mid-pregnancy anatomy scan is commonly offered around this period, with exact timing depending on local care pathways.",
+          "wellbeing": "You may or may not feel flutters yet. If you have concerns about pain, bleeding, or fluid loss, contact your maternity service.",
+          "nutrition": "Choose safe food handling and thoroughly cook meat, eggs, and seafood according to local advice.",
+          "question": "What happens if the scan view is incomplete?"
+        },
+        {
+          "week": 17,
+          "title": "A growing bump",
+          "development": "The fetus grows and body proportions continue to change; estimated size is not a precise prediction of birth weight.",
+          "wellbeing": "Round-ligament discomfort can occur, but severe or persistent pain deserves assessment.",
+          "nutrition": "Pair iron-containing foods with vitamin-C-rich produce; supplements should follow test results or clinical guidance.",
+          "question": "Which symptoms should I report between visits?"
+        },
+        {
+          "week": 18,
+          "title": "Mid-pregnancy routines",
+          "development": "The fetus continues developing hearing and movement skills. Whether sounds are heard or movements felt varies by stage and position.",
+          "wellbeing": "Sleep position and comfort may start to matter more. Use pillows for support and ask about persistent sleep problems.",
+          "nutrition": "Hydration and fibre can help constipation; increase fibre gradually and drink enough fluids.",
+          "question": "How will I recognise my baby's usual movement pattern later?"
+        },
+        {
+          "week": 19,
+          "title": "Planning ahead",
+          "development": "Growth and brain connections continue. No consumer app or symptom can reliably assess fetal health.",
+          "wellbeing": "This is a useful time to note questions about work, travel, exercise, and emotional wellbeing.",
+          "nutrition": "Avoid restrictive diets unless supervised; pregnancy is not the time for intentional weight-loss dieting without medical advice.",
+          "question": "What workplace adjustments or leave planning should I start?"
+        },
+        {
+          "week": 20,
+          "title": "Halfway milestone",
+          "development": "Around the middle of pregnancy, the anatomy scan and routine appointments help assess development; they cannot guarantee every outcome.",
+          "wellbeing": "Feelings about pregnancy can be mixed. Seek support if anxiety or low mood persists or interferes with daily life.",
+          "nutrition": "A balanced pattern matters more than a single meal. Include protein, whole grains, fruit, vegetables, and appropriate fats.",
+          "question": "What should I do after the anatomy scan?"
+        },
+        {
+          "week": 21,
+          "title": "Movement awareness",
+          "development": "Some people begin to notice movement, often as flutters, while others feel it later. There is no universal first-movement date.",
+          "wellbeing": "If you have not felt movement yet, timing can depend on placenta position and whether this is a first pregnancy. Ask your clinician if worried.",
+          "nutrition": "DHA/omega-3 can be obtained from suitable low-mercury fish; ask about alternatives if you do not eat fish.",
+          "question": "When should I start paying attention to a movement pattern?"
+        },
+        {
+          "week": 22,
+          "title": "Changes in comfort",
+          "development": "The fetus grows and movement may become more noticeable. Individual patterns differ.",
+          "wellbeing": "Pelvic or back discomfort may respond to pacing, gentle movement, and supportive positions. New severe pain is different and needs assessment.",
+          "nutrition": "Try regular meals and avoid lying down immediately after eating if reflux bothers you.",
+          "question": "Can a physiotherapist help with pelvic or back pain?"
+        },
+        {
+          "week": 23,
+          "title": "Sensory development",
+          "development": "Hearing pathways and responses to sound continue developing, but claims about specific sounds improving intelligence are not supported.",
+          "wellbeing": "You do not need special music or products to stimulate development. Ordinary calm interaction is enough.",
+          "nutrition": "Include choline-containing foods such as well-cooked eggs, beans, and other protein foods as part of a varied diet.",
+          "question": "Which everyday activities are safe and comfortable?"
+        },
+        {
+          "week": 24,
+          "title": "Preparing for later pregnancy",
+          "development": "The fetus continues to grow and practise movements. Measurements and milestones describe averages, not an exact schedule.",
+          "wellbeing": "Consider practical supports: transport to appointments, help with chores, and a plan if you feel unwell.",
+          "nutrition": "If heartburn is troublesome, smaller meals and identifying triggers may help; ask before using medication.",
+          "question": "What should my support person know?"
+        },
+        {
+          "week": 25,
+          "title": "Second half planning",
+          "development": "As pregnancy progresses, appointments may discuss growth, blood pressure, anaemia screening, and local tests according to care pathways.",
+          "wellbeing": "Make time for emotional wellbeing and discuss concerns openly. You deserve support even if everything looks medically routine.",
+          "nutrition": "Iron-rich foods help, but iron deficiency is diagnosed with appropriate testing; excess iron can also cause problems.",
+          "question": "Which tests are due in the coming weeks?"
+        },
+        {
+          "week": 26,
+          "title": "Growth and sleep cycles",
+          "development": "The fetus develops more organised periods of activity and rest. Movement can vary, but a concerning reduction later in pregnancy must not be ignored.",
+          "wellbeing": "Try side-lying with pillows if it is comfortable. Ask about persistent pain, severe headaches, or visual changes promptly.",
+          "nutrition": "Keep water nearby and plan easy balanced snacks for busy days.",
+          "question": "How do I contact maternity triage after hours?"
+        },
+        {
+          "week": 27,
+          "title": "Practising breathing",
+          "development": "Lung structures mature over time; breathing movements in the womb are practice movements, not air breathing.",
+          "wellbeing": "Shortness of breath can occur with exertion, but sudden or severe breathlessness, chest pain, or fainting needs urgent care.",
+          "nutrition": "Adequate energy and protein support health; avoid unproven supplements marketed for fetal brain growth.",
+          "question": "What birth-preparation class or information is available locally?"
+        },
+        {
+          "week": 28,
+          "title": "Preparing for the third trimester",
+          "development": "The fetus continues to grow and gain fat, while brain and lung development continue. Preterm birth risks and care depend on gestational age and clinical context.",
+          "wellbeing": "Plan rest breaks and ask about swelling, headaches, or other new symptoms rather than assuming they are normal.",
+          "nutrition": "Pack simple snacks with protein and fibre for appointments or travel.",
+          "question": "When should I call about contractions or fluid leakage?"
+        },
+        {
+          "week": 29,
+          "title": "Third-trimester transition",
+          "development": "Growth, brain development, and maturation continue. Estimated weight is approximate and ultrasound estimates have limits.",
+          "wellbeing": "Sleep may be more interrupted. Prioritise comfort and discuss severe insomnia, anxiety, or low mood.",
+          "nutrition": "Continue food safety practices and use supplements only as recommended.",
+          "question": "What should go in my hospital bag?"
+        },
+        {
+          "week": 30,
+          "title": "Movement patterns",
+          "development": "The fetus has periods of rest and activity. Learn the movement guidance given by your maternity team; never wait until the next day for a marked reduction.",
+          "wellbeing": "As the bump grows, use comfortable lifting and getting-up techniques. Ask for help with heavy loads.",
+          "nutrition": "Prepare a few easy meals or snacks if energy is limited.",
+          "question": "How do I monitor movements according to my maternity team's advice?"
+        },
+        {
+          "week": 31,
+          "title": "Getting organised",
+          "development": "The baby continues gaining size and practising coordinated movement. The exact birth date cannot be predicted from a calendar.",
+          "wellbeing": "Make a list of transport, documents, contact numbers, and who can support you during labour.",
+          "nutrition": "Keep regular meals and fluids; avoid trying to induce labour with foods or supplements.",
+          "question": "Which maternity unit should I contact when labour starts?"
+        },
+        {
+          "week": 32,
+          "title": "Third-trimester appointments",
+          "development": "Your care team may check blood pressure, symptoms, fetal growth, or tests according to local guidelines and personal risk.",
+          "wellbeing": "Ask about your birth preferences, pain relief options, and what happens if plans change.",
+          "nutrition": "If iron or glucose results need follow-up, ask for a clear plan and timing.",
+          "question": "What are my options for pain relief and support?"
+        },
+        {
+          "week": 33,
+          "title": "Birth preparation",
+          "development": "The fetus continues maturation and may change position. A head-down position is common near term but can change.",
+          "wellbeing": "Discuss fears or previous difficult experiences with your maternity team; preferences can be documented without being guarantees.",
+          "nutrition": "Plan nourishing, easy-to-eat foods for the early postpartum period.",
+          "question": "Who can make decisions with me if I am tired or overwhelmed?"
+        },
+        {
+          "week": 34,
+          "title": "Planning postpartum support",
+          "development": "The fetus continues growing; every pregnancy follows its own pattern. Only clinical assessment can evaluate concerns.",
+          "wellbeing": "Arrange help with meals, errands, pets, and older children if possible. Plan rest and emotional support, not just baby supplies.",
+          "nutrition": "Stock easy protein foods, fruit, vegetables, and drinks you like.",
+          "question": "What recovery supplies would make the first week easier?"
+        },
+        {
+          "week": 35,
+          "title": "Baby care practice",
+          "development": "Newborns need responsive feeding, safe sleep, warmth, and routine follow-up. Practising basics now can reduce stress later.",
+          "wellbeing": "It is okay to ask for help with feeding, recovery, and mood after birth. No parent is expected to know everything instinctively.",
+          "nutrition": "Prepare a feeding station with water, snacks, clean supplies, and phone charger, adapted to your feeding plan.",
+          "question": "Who will I call for feeding or recovery help after discharge?"
+        },
+        {
+          "week": 36,
+          "title": "Late-pregnancy readiness",
+          "development": "The fetus continues maturation and may engage in the pelvis, but this timing varies and does not reliably predict labour onset.",
+          "wellbeing": "Braxton Hicks contractions may occur, but regular painful contractions, bleeding, or fluid leakage need maternity advice.",
+          "nutrition": "Avoid unverified labour-induction methods, including herbs and high-dose supplements.",
+          "question": "What signs mean I should call the maternity unit?"
+        },
+        {
+          "week": 37,
+          "title": "Near-term planning",
+          "development": "The baby is approaching term, but the estimated due date is not an exact deadline. Some babies arrive before or after it.",
+          "wellbeing": "Review transport, phone charging, documents, and support-person availability. Seek prompt advice for concerning symptoms.",
+          "nutrition": "Keep meals simple and hydrate; do not restrict food or drink to try to start labour.",
+          "question": "What should I do if I think my waters have broken?"
+        },
+        {
+          "week": 38,
+          "title": "Term approaching",
+          "development": "The baby continues to mature. Fetal movement should still be felt according to the pattern advised by your maternity team.",
+          "wellbeing": "Waiting can be emotionally intense. Plan a calm activity and contact your team rather than trying unsafe home induction.",
+          "nutrition": "Avoid castor oil or herbal induction products unless a qualified clinician specifically advises a treatment.",
+          "question": "How will post-dates monitoring and induction be discussed?"
+        },
+        {
+          "week": 39,
+          "title": "At term",
+          "development": "Birth may begin spontaneously at different times around the due date. The due date is an estimate, not a diagnosis of overdue pregnancy.",
+          "wellbeing": "Contractions, mucus changes, and pelvic pressure can happen, but symptoms vary. Call for bleeding, reduced movements, fluid leakage, or feeling seriously unwell.",
+          "nutrition": "Choose familiar foods and fluids as tolerated; follow your maternity unit's instructions during labour.",
+          "question": "What is the plan if labour has not started by my due date?"
+        },
+        {
+          "week": 40,
+          "title": "Due-date window",
+          "development": "The estimated due date marks 40+0 on the conventional calendar, but normal birth timing spans a window. Your care team can explain local follow-up.",
+          "wellbeing": "Rest, support, and clear communication matter. Do not feel pressured to try unproven methods to trigger labour.",
+          "nutrition": "Keep your phone, documents, and transport plan ready. Follow personalised advice from your maternity team.",
+          "question": "When should I attend assessment, and whom do I call first?"
+        }
+      ],
+      "daily": [
+        {
+          "title": "Baby development",
+          "text": "Read the week's development note and remember that milestones describe averages, not a personal diagnosis.",
+          "takeaway": "A date estimate cannot tell you whether the pregnancy is healthy; appointments and your care team's advice matter."
+        },
+        {
+          "title": "Your wellbeing",
+          "text": "Choose one small comfort step today: rest, a gentle walk if appropriate, a drink of water, or asking for help.",
+          "takeaway": "Contact your maternity team for worrying symptoms rather than trying to diagnose them from an app."
+        },
+        {
+          "title": "Nutrition focus",
+          "text": "Build a meal around a protein food, vegetables or fruit, and a whole-grain or other fibre source that suits you.",
+          "takeaway": "Food supports general health; no single food guarantees a particular outcome. Follow local food-safety guidance."
+        },
+        {
+          "title": "Evidence literacy",
+          "text": "When reading a study, check the population, comparison group, absolute numbers, confidence interval, and whether the outcome matters to families.",
+          "takeaway": "An association is not proof of causation. Ask whether the evidence changes a clinical recommendation."
+        },
+        {
+          "title": "Birth preparation",
+          "text": "Write down one question for your next appointment and one practical task your support person can take on.",
+          "takeaway": "Preferences are useful to communicate, but plans may change for medical reasons."
+        },
+        {
+          "title": "Newborn skill",
+          "text": "Practise one newborn-care topic: safe sleep, feeding cues, nappy output, cord care, temperature, or car-seat setup.",
+          "takeaway": "Use guidance from your maternity team and local health services; ask for a demonstration if uncertain."
+        },
+        {
+          "title": "Reflection and planning",
+          "text": "Note one thing you learned, one question to ask, and one support you may need this week.",
+          "takeaway": "You do not need to prepare everything at once. Small, realistic steps are enough."
+        }
+      ],
+      "labels": {
+        "title": "Pregnancy briefing",
+        "week": "Week",
+        "day": "day",
+        "development": "Baby development",
+        "wellbeing": "Your wellbeing",
+        "nutrition": "Nutrition focus",
+        "dailyFocus": "Today's focus",
+        "question": "Question for your maternity team",
+        "checklist": "A small step for today",
+        "disclaimer": "Educational information, not a substitute for your maternity team. Seek urgent assessment for reduced or changed fetal movement, bleeding, leaking fluid, severe headache or vision changes, severe abdominal pain, chest pain, or severe shortness of breath.",
+        "age": "Gestational age",
+        "sources": "Trusted sources to check",
+        "sourcesText": "For current clinical guidance, use your maternity team and official sources such as WHO, NHS, NICE, and Lithuania's Sodra and Ministry of Social Security and Labour."
+      }
+    },
+    "lt": {
+      "weeks": [
+        {
+          "week": 1,
+          "title": "Pradžia",
+          "development": "Nėštumo trukmė skaičiuojama nuo pirmos paskutinių mėnesinių dienos, todėl pirmosios dvi savaitės paprastai būna dar iki apvaisinimo. Ovuliacijos ir apvaisinimo laikas skiriasi; numatoma gimdymo data yra orientacinė.",
+          "wellbeing": "Poilsis, miegas ir įprasta rutina svarbiau nei bandymas jaustis tam tikru būdu. Jei nėštumas galimas, atlikite testą tinkamu laiku ir pasitarkite dėl vaistų ar sveikatos būklių.",
+          "nutrition": "Vaistus ir papildus aptarkite su gydytoju ar vaistininku. Venkite alkoholio ir rūkymo; prireikus kreipkitės pagalbos jų atsisakyti.",
+          "question": "Ką verta padaryti prieš teigiamą testą arba iškart po jo?"
+        },
+        {
+          "week": 2,
+          "title": "Ankstyvieji pagrindai",
+          "development": "Šiuo laikotarpiu gali įvykti apvaisinimas ir prasideda ankstyvas ląstelių dalijimasis. Kalendorinis nėštumo skaičiavimas nepatvirtina tikslios ovuliacijos datos.",
+          "wellbeing": "Kai kurie žmonės nejaučia jokių simptomų, kiti jaučia krūtų jautrumą ar nuovargį. Simptomai nepatvirtina, kaip vystosi nėštumas.",
+          "nutrition": "Folio rūgštį vartokite pagal vietines medicinos rekomendacijas; nepradėkite vartoti didelių papildų dozių nepasitarę.",
+          "question": "Kokie papildai ir vaistai man tinka?"
+        },
+        {
+          "week": 3,
+          "title": "Ankstyvas vystymasis",
+          "development": "Po implantacijos pradeda formuotis struktūros, iš kurių vystysis placenta ir embrionas. Tikslus laikas skiriasi, o labai ankstyvas ultragarsas dar gali neparodyti visko.",
+          "wellbeing": "Nestiprūs spazmai gali pasitaikyti, tačiau stiprus ar vienpusis skausmas, alpimas ar gausus kraujavimas reikalauja skubaus įvertinimo.",
+          "nutrition": "Rinkitės reguliarius valgius ir vandenį; vaistažolių ar vaistų nuo pykinimo saugumą patikrinkite su specialistu.",
+          "question": "Kada užsiregistruoti pirmajam nėštumo vizitui?"
+        },
+        {
+          "week": 4,
+          "title": "Teigiamas testas",
+          "development": "Nėštumo hormonų kiekis sparčiai didėja. Ankstyvųjų struktūrų matomumas ultragarsu priklauso nuo tikslios datos ir tyrimo metodo.",
+          "wellbeing": "Gali pasireikšti nuovargis, pykinimas, jautrumas kvapams arba visai nebūti simptomų. Dėl dehidratacijos, stipraus skausmo ar kraujavimo kreipkitės pagalbos.",
+          "nutrition": "Pykinimą gali palengvinti mažos, dažnos porcijos. Vaistus nuo pykinimo vartokite tik pasitarę.",
+          "question": "Kokie simptomai reiškia, kad reikia skambinti gydytojui?"
+        },
+        {
+          "week": 5,
+          "title": "Ankstyvas embrionas",
+          "development": "Vystosi nervinis vamzdelis ir ankstyvos organų sistemos. Tai jautrus laikotarpis, tačiau nei vienas maistas ar simptomas neprognozuoja individualios baigties.",
+          "wellbeing": "Jei galite, ilsėkitės ir paprašykite praktinės pagalbos. Nuolatinis emocinis sunkumas vertas dėmesio ir pagalbos.",
+          "nutrition": "Maistas, kuriame yra folatų, papildo, bet nepakeičia rekomenduojamo folio rūgšties papildo.",
+          "question": "Kokie tyrimai siūlomi nėštumo pradžioje?"
+        },
+        {
+          "week": 6,
+          "title": "Pirmieji vizitai",
+          "development": "Priklausomai nuo tikslios datos ir tyrimo, ultragarsu gali būti matoma ankstyva širdies veikla; per anksti atliktas tyrimas gali būti neaiškus.",
+          "wellbeing": "Kai kuriems žmonėms pykinimas ir nuovargis būna stiprūs. Nelyginkite savo simptomų su kitų žmonių patirtimi.",
+          "nutrition": "Gali padėti paprastas maistas, skysčiai ir mažos porcijos. Kreipkitės pagalbos, jei nepavyksta išlaikyti skysčių ar labai sumažėja šlapimo.",
+          "question": "Ko tikėtis pirmojo vizito metu?"
+        },
+        {
+          "week": 7,
+          "title": "Ankstyvas augimas",
+          "development": "Greitai formuojasi kūno planas ir galūnių užuomazgos. Matavimai šiame etape yra apytiksliai, o ultragarsas gali patikslinti numatomą datą.",
+          "wellbeing": "Jei gydytojas nenurodė kitaip, švelnus judėjimas dažniausiai naudingas. Dėl nerimą keliančių simptomų sustokite ir kreipkitės patarimo.",
+          "nutrition": "Laikykitės maisto saugos rekomendacijų: tinkamai termiškai apdorokite maistą ir venkite didesnės rizikos produktų.",
+          "question": "Kaip patvirtinama mano gimdymo data?"
+        },
+        {
+          "week": 8,
+          "title": "Organų vystymasis",
+          "development": "Toliau formuojasi ankstyvos organų struktūros ir veido bruožai. Pagal simptomus negalima įvertinti vystymosi.",
+          "wellbeing": "Gali varginti vidurių užkietėjimas, pykinimas, krūtų jautrumas ir nuovargis. Padėti gali švelni rutina ir pakankamai skysčių.",
+          "nutrition": "Avižos, vaisiai, daržovės, ankštiniai ir pilno grūdo produktai suteikia skaidulų žarnyno veiklai.",
+          "question": "Ką saugiai vartoti nuo vidurių užkietėjimo ar pykinimo?"
+        },
+        {
+          "week": 9,
+          "title": "Pirmojo trimestro pabaiga artėja",
+          "development": "Embrionas pereina į vaisiaus vystymosi laikotarpį, o pagrindinės struktūros toliau bręsta. Individualus augimas skiriasi.",
+          "wellbeing": "Kai kurie simptomai gali keistis, tačiau vien jų pokyčiai neparodo vaisiaus savijautos. Kilus nerimui kreipkitės į nėštumą prižiūrinčią komandą.",
+          "nutrition": "Nevartokite labai didelių vitaminų dozių, ypač retinolio formos vitamino A, nebent jis specialiai paskirtas.",
+          "question": "Ką svarbu žinoti apie patikrą ir jos ribas?"
+        },
+        {
+          "week": 10,
+          "title": "Pirmojo trimestro patikros laikotarpis",
+          "development": "Vaisius toliau auga, tačiau daugelis nėščiųjų judesių dar nejaučia. Pirmųjų judesių laikas labai skiriasi.",
+          "wellbeing": "Nerimas prieš patikrą dažnas. Paklauskite, ką rezultatas gali parodyti, ko negali ir kokie tolesni žingsniai galimi.",
+          "nutrition": "Rinkitės baltymų šaltinius ir įvairias daržoves; joks vienas maistas negali užkirsti kelio genetinėms ar raidos būklėms.",
+          "question": "Kokias patikros galimybes galiu rinktis?"
+        },
+        {
+          "week": 11,
+          "title": "Perėjimas į antrą trimestrą",
+          "development": "Vaisiaus kūno proporcijos keičiasi, vystosi kaulai ir raumenys. Dydžio vidurkiai nėra privalomas tikslas kiekvienam kūdikiui.",
+          "wellbeing": "Energijos gali padaugėti, bet tai nevienoda. Lankykitės vizituose ir aptarkite nerimą keliančius simptomus.",
+          "nutrition": "Nėštumo metu didėja geležies poreikis; dėl tyrimų ir papildų pasitarkite, o didelių dozių nevartokite savarankiškai.",
+          "question": "Ką turėčiau žinoti apie tyrimų rezultatus?"
+        },
+        {
+          "week": 12,
+          "title": "Augimas ir judėjimas",
+          "development": "Vaisius juda, tačiau daugelis pirmą kartą nėščių žmonių judesių dar nejaučia. Laikas labai skiriasi.",
+          "wellbeing": "Jei nėštumas nekomplikuotas, aktyvumą galima didinti palaipsniui. Laikykitės individualių medicinos rekomendacijų.",
+          "nutrition": "Kalcis ir pakankamas baltymų kiekis svarbūs mitybai; papildai priklauso nuo mitybos ir sveikatos situacijos.",
+          "question": "Koks fizinis aktyvumas man tinka?"
+        },
+        {
+          "week": 13,
+          "title": "Antro trimestro pokyčiai",
+          "development": "Toliau vystosi veido bruožai ir kaulai. Kai kuriems pykinimas sumažėja, kitiems išlieka.",
+          "wellbeing": "Gali pagerėti savijauta, bet taip nutinka ne visiems. Dėl nuolatinio vėmimo ar skysčių trūkumo kreipkitės pagalbos.",
+          "nutrition": "Įvairi mityba svarbesnė už brangius „superproduktus“. Rinkitės mėgstamas daržoves, pilno grūdo produktus ir baltymus.",
+          "question": "Kada numatytas vaisiaus anatomijos ultragarsas?"
+        },
+        {
+          "week": 14,
+          "title": "Kaulų ir raumenų vystymasis",
+          "development": "Kaulai mineralizuojasi, stiprėja raumenys. Vaisiaus dydis natūraliai skiriasi.",
+          "wellbeing": "Keičiantis laikysenai gali pradėti skaudėti nugarą. Gali padėti švelnūs judesiai ir patogi avalynė.",
+          "nutrition": "Vitamino D ir jodo rekomendacijos priklauso nuo šalies ir individualių poreikių; pasitarkite dėl vietinių rekomendacijų.",
+          "question": "Ar man reikia vitamino D, jodo ar geležies tyrimų?"
+        },
+        {
+          "week": 15,
+          "title": "Anatomijos tyrimas artėja",
+          "development": "Vaisius mokosi judėti ir ryti. Ultragarsas įvertina daug struktūrų, bet negali nustatyti visų galimų būklių.",
+          "wellbeing": "Jei nerimaujate laukdami tyrimo, iš anksto užsirašykite klausimus ir, jei leidžiama, pasikvieskite artimą žmogų.",
+          "nutrition": "Žuvį rinkitės pagal vietines mažo gyvsidabrio kiekio rekomendacijas ir venkite rūšių, kuriose jo daug.",
+          "question": "Ką anatomijos tyrimas įvertina ir ko negali parodyti?"
+        },
+        {
+          "week": 16,
+          "title": "Anatomija ir detalės",
+          "development": "Šiuo laikotarpiu dažnai atliekamas vaisiaus anatomijos ultragarsas, tačiau tikslus laikas priklauso nuo priežiūros tvarkos.",
+          "wellbeing": "Kai kurie jaučia pirmuosius virptelėjimus, kiti dar ne. Dėl skausmo, kraujavimo ar skysčių tekėjimo kreipkitės į medikus.",
+          "nutrition": "Laikykitės maisto saugos: tinkamai apdorokite mėsą, kiaušinius ir jūros gėrybes.",
+          "question": "Kas vyksta, jei per ultragarsą nepavyksta pamatyti visų vaizdų?"
+        },
+        {
+          "week": 17,
+          "title": "Augantis pilvukas",
+          "development": "Vaisius auga, o kūno proporcijos keičiasi. Matavimai nėra tikslus būsimo gimimo svorio spėjimas.",
+          "wellbeing": "Gali pasireikšti raiščių tempimo skausmas, tačiau stiprus ar užsitęsęs skausmas turi būti įvertintas.",
+          "nutrition": "Geležies turintį maistą derinkite su vitamino C turinčiais produktais; papildus vartokite pagal tyrimus ar gydytojo patarimą.",
+          "question": "Kokius simptomus reikėtų pranešti tarp vizitų?"
+        },
+        {
+          "week": 18,
+          "title": "Nėštumo vidurio rutina",
+          "development": "Toliau vystosi klausa ir judėjimas. Ar garsai girdimi arba judesiai jaučiami, priklauso nuo nėštumo etapo ir individualių aplinkybių.",
+          "wellbeing": "Gali prireikti patogesnės miego padėties. Pagalvės gali padėti; dėl nuolatinių miego problemų pasitarkite.",
+          "nutrition": "Vanduo ir skaidulos gali padėti nuo vidurių užkietėjimo; skaidulų kiekį didinkite palaipsniui.",
+          "question": "Kaip vėliau atpažinti įprastą kūdikio judesių ritmą?"
+        },
+        {
+          "week": 19,
+          "title": "Planavimas į priekį",
+          "development": "Toliau vystosi augimas ir smegenų jungtys. Programėlės ar simptomai negali patikimai įvertinti vaisiaus sveikatos.",
+          "wellbeing": "Tai tinkamas metas aptarti darbą, keliones, fizinį aktyvumą ir emocinę savijautą.",
+          "nutrition": "Venkite ribojančių dietų be specialistų priežiūros; nėštumo metu sąmoningai mesti svorį paprastai nerekomenduojama.",
+          "question": "Kokias darbo sąlygas ar atostogas verta planuoti?"
+        },
+        {
+          "week": 20,
+          "title": "Nėštumo vidurio etapas",
+          "development": "Nėštumo viduryje anatomijos tyrimas ir vizitai padeda įvertinti vystymąsi, tačiau negarantuoja visų baigčių.",
+          "wellbeing": "Jausmai gali būti įvairūs. Jei nerimas ar prislėgta nuotaika tęsiasi ir trukdo kasdienybei, ieškokite pagalbos.",
+          "nutrition": "Subalansuota mityba svarbesnė už vieną „tobulą“ valgį. Rinkitės baltymus, pilno grūdo produktus, vaisius, daržoves ir tinkamus riebalus.",
+          "question": "Ką turėčiau daryti gavusi anatomijos tyrimo rezultatus?"
+        },
+        {
+          "week": 21,
+          "title": "Judesių pažinimas",
+          "development": "Kai kurie žmonės pradeda jausti judesius kaip lengvus virptelėjimus, kiti vėliau. Pirmųjų judesių data nėra vienoda visiems.",
+          "wellbeing": "Jei judesių dar nejaučiate, tai gali priklausyti nuo placentos vietos ir nuo to, ar tai pirmasis nėštumas. Kilus nerimui pasitarkite su specialistu.",
+          "nutrition": "DHA ir omega-3 galima gauti iš tinkamai parinktos mažai gyvsidabrio turinčios žuvies; jei jos nevalgote, aptarkite alternatyvas.",
+          "question": "Kada pradėti stebėti įprastą judesių ritmą?"
+        },
+        {
+          "week": 22,
+          "title": "Patogumo pokyčiai",
+          "development": "Vaisius auga, judesiai gali ryškėti. Individualūs judesių modeliai skiriasi.",
+          "wellbeing": "Dubens ar nugaros diskomfortą gali palengvinti poilsio pertraukos, švelnus judėjimas ir patogios padėtys. Naujas stiprus skausmas reikalauja įvertinimo.",
+          "nutrition": "Jei vargina refliuksas, valgykite mažesnėmis porcijomis ir iškart po valgio negulkite.",
+          "question": "Ar gali padėti kineziterapeutas?"
+        },
+        {
+          "week": 23,
+          "title": "Jutimų raida",
+          "development": "Toliau vystosi klausos keliai ir reakcijos į garsus, tačiau nėra įrodymų, kad konkreti muzika padidintų intelektą.",
+          "wellbeing": "Nereikia specialių muzikos priemonių ar produktų. Pakanka įprasto ramaus bendravimo.",
+          "nutrition": "Įvairioje mityboje verta turėti cholino turinčių produktų, pavyzdžiui, gerai termiškai apdorotų kiaušinių, ankštinių ar kitų baltymų šaltinių.",
+          "question": "Kokia kasdienė veikla yra saugi ir patogi?"
+        },
+        {
+          "week": 24,
+          "title": "Pasiruošimas vėlesniam nėštumui",
+          "development": "Vaisius toliau auga ir mokosi judesių. Matavimai ir raidos etapai yra vidurkiai, o ne tikslus tvarkaraštis.",
+          "wellbeing": "Planuokite praktinę pagalbą: transportą į vizitus, pagalbą namuose ir planą, jei pasijustumėte blogai.",
+          "nutrition": "Jei vargina rėmuo, gali padėti mažesnės porcijos ir dirgiklių atpažinimas; prieš vaistus pasitarkite.",
+          "question": "Ką turėtų žinoti mane palaikantis žmogus?"
+        },
+        {
+          "week": 25,
+          "title": "Antros nėštumo pusės planas",
+          "development": "Vizituose gali būti aptariamas augimas, kraujospūdis, mažakraujystės tyrimai ir kiti tyrimai pagal vietines rekomendacijas.",
+          "wellbeing": "Skirkite dėmesio emocinei savijautai ir atvirai kalbėkite apie rūpesčius. Pagalba reikalinga net jei nėštumas vyksta įprastai.",
+          "nutrition": "Geležies turintis maistas naudingas, tačiau geležies trūkumas nustatomas tyrimais; perteklius taip pat gali pakenkti.",
+          "question": "Kokie tyrimai numatyti artimiausiomis savaitėmis?"
+        },
+        {
+          "week": 26,
+          "title": "Augimas ir poilsio ciklai",
+          "development": "Vaisiui formuojasi aktyvumo ir poilsio periodai. Judesiai gali skirtis, tačiau vėlesniu nėštumo laikotarpiu ryškus sumažėjimas neturi būti ignoruojamas.",
+          "wellbeing": "Jei patogu, ilsėkitės ant šono su pagalvėmis. Dėl nuolatinio skausmo, stipraus galvos skausmo ar regėjimo pokyčių kreipkitės nedelsdama.",
+          "nutrition": "Turėkite vandens ir suplanuokite lengvus, subalansuotus užkandžius.",
+          "question": "Kaip susisiekti su gimdymo skyriumi ne darbo metu?"
+        },
+        {
+          "week": 27,
+          "title": "Kvėpavimo praktika",
+          "development": "Plaučiai bręsta palaipsniui; kvėpavimo judesiai gimdoje yra praktika, o ne kvėpavimas oru.",
+          "wellbeing": "Dusulys fizinio krūvio metu gali pasitaikyti, tačiau staigus ar stiprus dusulys, krūtinės skausmas ar alpimas reikalauja skubios pagalbos.",
+          "nutrition": "Pakankamas energijos ir baltymų kiekis svarbus sveikatai; venkite neįrodytų papildų, reklamuojamų vaisiaus smegenų vystymuisi.",
+          "question": "Kokie pasiruošimo gimdymui užsiėmimai prieinami?"
+        },
+        {
+          "week": 28,
+          "title": "Trečio trimestro pradžia",
+          "development": "Vaisius toliau auga, kaupia riebalus, bręsta smegenys ir plaučiai. Neišnešiotumo rizika ir priežiūra priklauso nuo nėštumo savaitės bei klinikinės situacijos.",
+          "wellbeing": "Planuokite poilsio pertraukas ir aptarkite naują tinimą, galvos skausmą ar kitus simptomus.",
+          "nutrition": "Vizitams ar kelionėms pasiruoškite paprastų užkandžių su baltymais ir skaidulomis.",
+          "question": "Kada skambinti dėl sąrėmių ar vaisiaus vandenų tekėjimo?"
+        },
+        {
+          "week": 29,
+          "title": "Trečio trimestro pradžia",
+          "development": "Vaisius toliau auga, vystosi smegenys ir bręsta plaučiai. Numatomą svorį galima įvertinti tik apytiksliai.",
+          "wellbeing": "Miegas gali būti labiau pertraukiamas. Ieškokite patogios padėties ir aptarkite nuolatinę nemigą, nerimą ar prislėgtą nuotaiką.",
+          "nutrition": "Laikykitės maisto saugos ir papildus vartokite tik rekomenduotus.",
+          "question": "Ką įsidėti į gimdymo krepšį?"
+        },
+        {
+          "week": 30,
+          "title": "Judesių modeliai",
+          "development": "Vaisius turi aktyvumo ir poilsio periodus. Laikykitės nėštumą prižiūrinčios komandos nurodymų dėl judesių; ryškiai sumažėjus judesiams nelaukite iki kitos dienos.",
+          "wellbeing": "Augant pilvui naudokite patogius kėlimosi ir daiktų kilnojimo būdus. Sunkius darbus perleiskite kitiems.",
+          "nutrition": "Pasiruoškite kelis paprastus patiekalus ar užkandžius, jei energijos mažiau.",
+          "question": "Kaip stebėti judesius pagal mano gydytojo rekomendacijas?"
+        },
+        {
+          "week": 31,
+          "title": "Organizaciniai darbai",
+          "development": "Kūdikis auga ir lavina koordinuotus judesius. Kalendorius negali tiksliai numatyti gimdymo dienos.",
+          "wellbeing": "Sudarykite transporto, dokumentų, kontaktų ir pagalbos žmonių sąrašą.",
+          "nutrition": "Reguliariai valgykite ir gerkite skysčių; nebandykite skatinti gimdymo maistu ar papildais.",
+          "question": "Į kurį gimdymo skyrių kreiptis prasidėjus gimdymui?"
+        },
+        {
+          "week": 32,
+          "title": "Trečio trimestro vizitai",
+          "development": "Pagal priežiūros tvarką ir individualią riziką gali būti tikrinamas kraujospūdis, simptomai, vaisiaus augimas ar atliekami tyrimai.",
+          "wellbeing": "Aptarkite gimdymo pageidavimus, skausmo malšinimą ir tai, kas vyktų pasikeitus planui.",
+          "nutrition": "Jei reikia stebėti geležies ar gliukozės tyrimų rezultatus, paprašykite aiškaus veiksmų plano.",
+          "question": "Kokios skausmo malšinimo ir palaikymo galimybės?"
+        },
+        {
+          "week": 33,
+          "title": "Pasiruošimas gimdymui",
+          "development": "Vaisius toliau bręsta ir gali keisti padėtį. Artėjant terminui dažna galvinė padėtis, bet ji gali pasikeisti.",
+          "wellbeing": "Pasikalbėkite apie baimes ar ankstesnę sunkią patirtį. Pageidavimus galima užrašyti, nors jie negarantuoja konkrečios baigties.",
+          "nutrition": "Suplanuokite maistingą, lengvai paruošiamą maistą laikotarpiui po gimdymo.",
+          "question": "Kas gali padėti priimti sprendimus, jei būsiu pavargusi?"
+        },
+        {
+          "week": 34,
+          "title": "Pagalba po gimdymo",
+          "development": "Vaisius toliau auga; kiekvienas nėštumas vystosi individualiai. Tik klinikinis įvertinimas gali patikrinti nerimą keliančius požymius.",
+          "wellbeing": "Iš anksto susitarkite dėl pagalbos su maistu, reikalais, augintiniais ar vyresniais vaikais. Planuokite poilsį ir emocinę paramą.",
+          "nutrition": "Turėkite lengvai paruošiamų baltymų šaltinių, vaisių, daržovių ir mėgstamų gėrimų.",
+          "question": "Kokios priemonės palengvintų pirmąją savaitę po gimdymo?"
+        },
+        {
+          "week": 35,
+          "title": "Naujagimio priežiūros praktika",
+          "development": "Naujagimiui reikės jautraus maitinimo, saugaus miego, šilumos ir įprastų sveikatos patikrų. Išankstinis pasiruošimas mažina stresą.",
+          "wellbeing": "Normalu prašyti pagalbos maitinant, sveikstant ar susidūrus su emociniais sunkumais. Nereikia visko mokėti iš anksto.",
+          "nutrition": "Paruoškite maitinimo vietą su vandeniu, užkandžiais, švariomis priemonėmis ir telefono įkrovikliu.",
+          "question": "Kur kreiptis pagalbos dėl maitinimo ar sveikimo po išrašymo?"
+        },
+        {
+          "week": 36,
+          "title": "Vėlyvo nėštumo pasirengimas",
+          "development": "Vaisius toliau bręsta ir gali nusileisti į dubenį, bet laikas skiriasi ir nepatikimai prognozuoja gimdymo pradžią.",
+          "wellbeing": "Gali pasitaikyti paruošiamųjų sąrėmių, tačiau reguliarūs skausmingi sąrėmiai, kraujavimas ar skysčių tekėjimas reikalauja medicinos patarimo.",
+          "nutrition": "Venkite nepatikrintų gimdymo skatinimo būdų, įskaitant vaistažoles ir dideles papildų dozes.",
+          "question": "Kokie požymiai reiškia, kad reikia skambinti į gimdymo skyrių?"
+        },
+        {
+          "week": 37,
+          "title": "Artėjantis terminas",
+          "development": "Kūdikis artėja prie išnešioto nėštumo, tačiau numatoma data nėra tiksli riba. Gimdymas gali prasidėti anksčiau arba vėliau.",
+          "wellbeing": "Peržiūrėkite transportą, dokumentus, telefono įkrovimą ir artimo žmogaus galimybę padėti. Dėl nerimą keliančių simptomų kreipkitės nedelsdama.",
+          "nutrition": "Rinkitės įprastą maistą ir skysčius pagal savijautą; laikykitės gimdymo skyriaus nurodymų.",
+          "question": "Ką daryti, jei įtariu, kad nubėgo vaisiaus vandenys?"
+        },
+        {
+          "week": 38,
+          "title": "Artėjantis gimdymas",
+          "development": "Kūdikis toliau bręsta, tačiau numatoma gimdymo data nėra terminas, kurį būtina pasiekti tiksliai tą dieną. Judesiai turi atitikti jūsų įprastą ritmą.",
+          "wellbeing": "Laukimas gali kelti įtampą. Suplanuokite ramią veiklą ir nebandykite nesaugių gimdymo skatinimo metodų.",
+          "nutrition": "Venkite ricinos aliejaus ir vaistažolių gimdymui skatinti, nebent kvalifikuotas specialistas konkrečiai rekomendavo gydymą.",
+          "question": "Kaip aptariama stebėsena ir gimdymo sužadinimas po termino?"
+        },
+        {
+          "week": 39,
+          "title": "Terminas artėja",
+          "development": "Gimdymas gali prasidėti skirtingu laiku aplink numatomą datą. Savijauta skiriasi; dėl nerimą keliančių požymių kreipkitės į medikus.",
+          "wellbeing": "Sąrėmiai, gleivių pokyčiai ir spaudimas dubenyje gali pasitaikyti, bet simptomai skiriasi. Kreipkitės dėl kraujavimo, sumažėjusių judesių, skysčių tekėjimo ar labai blogos savijautos.",
+          "nutrition": "Rinkitės įprastą maistą ir skysčius pagal toleravimą; gimdymo metu laikykitės personalo nurodymų.",
+          "question": "Koks planas, jei gimdymas neprasidės numatytą dieną?"
+        },
+        {
+          "week": 40,
+          "title": "Numatoma gimdymo data",
+          "development": "Numatoma gimdymo data atitinka 40+0 pagal įprastą skaičiavimą, tačiau gimdymas normaliai gali įvykti ir anksčiau, ir vėliau. Aptarkite tolesnę priežiūrą su specialistais.",
+          "wellbeing": "Svarbu poilsis, palaikymas ir aiškus bendravimas. Nesijauskite spaudžiama bandyti neįrodytus gimdymo skatinimo metodus.",
+          "nutrition": "Turėkite telefoną, dokumentus ir transporto planą. Laikykitės individualių nėštumą prižiūrinčios komandos patarimų.",
+          "question": "Kada atvykti į įvertinimą ir kam skambinti pirmiausia?"
+        }
+      ],
+      "daily": [
+        {
+          "title": "Kūdikio raida",
+          "text": "Perskaitykite šios savaitės raidos apžvalgą ir prisiminkite: etapai apibūdina vidurkius, o ne individualią diagnozę.",
+          "takeaway": "Vien data negali parodyti, ar nėštumas sveikas; svarbūs vizitai ir nėštumą prižiūrinčios komandos patarimai."
+        },
+        {
+          "title": "Jūsų savijauta",
+          "text": "Šiandien pasirinkite vieną mažą savijautos žingsnį: pailsėti, švelniai pasivaikščioti, jei tinka, atsigerti vandens ar paprašyti pagalbos.",
+          "takeaway": "Dėl nerimą keliančių simptomų kreipkitės į nėštumą prižiūrinčią komandą, o ne bandykite diagnozuoti pagal programėlę."
+        },
+        {
+          "title": "Mitybos dėmesys",
+          "text": "Suplanuokite valgį su baltymų šaltiniu, daržovėmis ar vaisiais ir pilno grūdo ar kitu skaidulų šaltiniu.",
+          "takeaway": "Maistas palaiko bendrą sveikatą, tačiau vienas produktas negarantuoja konkrečios baigties. Laikykitės maisto saugos rekomendacijų."
+        },
+        {
+          "title": "Mokslinių įrodymų vertinimas",
+          "text": "Skaitydami tyrimą patikrinkite tiriamųjų grupę, palyginimą, absoliučius skaičius, pasikliautinąjį intervalą ir rezultatų svarbą šeimoms.",
+          "takeaway": "Ryšys tarp reiškinių neįrodo priežasties. Paklauskite, ar įrodymai keičia klinikines rekomendacijas."
+        },
+        {
+          "title": "Pasiruošimas gimdymui",
+          "text": "Užsirašykite vieną klausimą kitam vizitui ir vieną praktinę užduotį, kurią galėtų perimti jus palaikantis žmogus.",
+          "takeaway": "Pageidavimus naudinga aptarti, tačiau dėl medicininių priežasčių planai gali keistis."
+        },
+        {
+          "title": "Naujagimio priežiūros įgūdis",
+          "text": "Pasirinkite vieną temą: saugus miegas, maitinimo ženklai, šlapios sauskelnės, virkštelės priežiūra, temperatūra ar automobilinė kėdutė.",
+          "takeaway": "Vadovaukitės nėštumą prižiūrinčios komandos ir vietinių sveikatos tarnybų patarimais; jei abejojate, paprašykite parodyti."
+        },
+        {
+          "title": "Apžvalga ir planavimas",
+          "text": "Užsirašykite vieną naują dalyką, vieną klausimą ir vieną pagalbą, kurios gali prireikti šią savaitę.",
+          "takeaway": "Nebūtina visko pasiruošti iš karto. Pakanka mažų, realistiškų žingsnių."
+        }
+      ],
+      "labels": {
+        "title": "Nėštumo apžvalga",
+        "week": "savaitė",
+        "day": "diena",
+        "development": "Kūdikio raida",
+        "wellbeing": "Jūsų savijauta",
+        "nutrition": "Mitybos dėmesys",
+        "dailyFocus": "Šios dienos dėmesys",
+        "question": "Klausimas nėštumą prižiūrinčiai komandai",
+        "checklist": "Mažas žingsnis šiandien",
+        "disclaimer": "Informacija skirta švietimui ir nepakeičia nėštumą prižiūrinčios komandos patarimų. Skubiai kreipkitės dėl sumažėjusių ar pasikeitusių vaisiaus judesių, kraujavimo, vaisiaus vandenų tekėjimo, stipraus galvos skausmo ar regėjimo pokyčių, stipraus pilvo ar krūtinės skausmo arba stipraus dusulio.",
+        "age": "Nėštumo trukmė",
+        "sources": "Patikimi šaltiniai",
+        "sourcesText": "Dėl naujausių rekomendacijų kreipkitės į nėštumą prižiūrinčią komandą ir naudokitės oficialiais šaltiniais, pavyzdžiui, PSO, NHS, NICE, „Sodra“ ir Socialinės apsaugos ir darbo ministerija."
+      }
+    }
+  }
+}
