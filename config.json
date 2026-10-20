@@ -1,8 +1,7 @@
 {
   "default_due_date": "2026-12-30",
   "timezone": "Europe/Vilnius",
-  "default_language": "en",
-  "supported_languages": [
+  "language_options": [
     "en",
     "lt"
   ]

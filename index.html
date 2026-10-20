@@ -1,8 +1,32 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f1eaff"><title>Baby Diary · Pregnancy Calendar</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f1eaff"><title>Baby Diary · Pregnancy Calendar & Daily Guide</title>
 <style>
 :root{--ink:#29334b;--muted:#68748a;--lav:#eee8ff;--pink:#ffe6ed;--mint:#def7ed;--line:#e7e1ed;--plum:#765ec2}
 *{box-sizing:border-box}body{margin:0;background:linear-gradient(145deg,#f7f1ff,#fff8f0 50%,#eaf8f2);font:15px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink)}main{max-width:1120px;margin:auto;padding:18px 13px 44px}.hero{padding:25px;border-radius:25px;background:linear-gradient(120deg,#6554ad,#a27bd0 58%,#e8a0b7);color:#fff;position:relative;overflow:hidden}.hero:after{content:"🌷";position:absolute;right:22px;bottom:-22px;font-size:112px;opacity:.24}.eyebrow{font-size:11px;font-weight:850;letter-spacing:.16em}.hero h1{font-size:clamp(28px,5vw,42px);line-height:1.1;margin:8px 0}.hero p{margin:0;max-width:750px;color:#fff9ff}.controls{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}.control{background:#ffffffed;border:1px solid white;border-radius:15px;padding:13px;flex:1;min-width:220px}.control label{display:block;font-size:12px;font-weight:850;color:var(--muted);margin-bottom:6px}.control input,.control select{font:inherit;color:var(--ink);padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:white;width:100%}.hint{font-size:11px;color:var(--muted);margin-top:5px}.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:12px}.stat,.panel{background:#ffffffed;border:1px solid #fff;border-radius:18px;padding:15px;box-shadow:0 8px 24px #3a31500b}.stat small{color:var(--muted);display:block}.stat strong{font-size:18px}.layout{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.3fr);gap:14px;margin-top:14px;align-items:start}.panel h2{font-size:19px;margin:0 0 12px}.month-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:10px}.month-head h2{margin:0}.nav{display:flex;gap:5px}.nav button{border:1px solid var(--line);background:#fff;border-radius:10px;padding:8px 10px;color:var(--ink);cursor:pointer;font:inherit}.dow,.grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:4px}.dow span{text-align:center;color:var(--muted);font-size:10px;font-weight:850;padding:4px 0}.day{min-width:0;min-height:53px;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--ink);padding:5px 2px;display:flex;flex-direction:column;align-items:center;gap:1px;font:inherit}.day.empty{background:transparent;border:0}.day.pick{cursor:pointer}.day.pick:hover{border-color:#aa9bd8;transform:translateY(-1px)}.day .num{font-weight:850}.day .mini{font-size:8px;color:var(--muted);white-space:nowrap}.day.selected{outline:3px solid #765ec233;background:linear-gradient(145deg,var(--lav),var(--pink));border:2px solid #a38bdd}.day.today .num:after{content:" ·";color:#db7198}.legend{display:flex;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:11px;margin-top:10px}.badge{display:inline-block;padding:4px 8px;border-radius:8px;background:var(--mint);font-size:10px;font-weight:850;letter-spacing:.06em;text-transform:uppercase}.article h2{margin-top:1.4em;padding-bottom:.3em;border-bottom:1px solid var(--line);color:#5d4b99}.article h3{color:#5d4b99}.article .callout{background:#f3efff;padding:14px;border-radius:12px;margin:12px 0}.article .day-card{background:#fff4f7;border:1px solid #f3dce5;border-radius:14px;padding:14px;margin:12px 0}.article .question{background:#e9f8f1;border-radius:12px;padding:13px}.article ul{padding-left:22px}.footer{color:var(--muted);font-size:11px;margin-top:15px}.article p{margin:.65em 0}
 @media(max-width:760px){.layout{grid-template-columns:1fr}.day{min-height:46px}.stats{gap:6px}.stat{padding:10px}.stat strong{font-size:15px}.day .mini{font-size:7px}}
+
+.gallery{display:grid;grid-template-columns:1.1fr 1fr 1fr;gap:10px;margin:14px 0}
+.gallery figure{margin:0;background:#fff;border:1px solid #fff;border-radius:16px;overflow:hidden;box-shadow:0 8px 24px #3a31500b}
+.gallery img{display:block;width:100%;height:145px;object-fit:cover}
+.gallery figcaption{padding:8px 10px;font-size:11px;color:var(--muted);line-height:1.35}
+.mag-hero{padding:19px;border-radius:18px;background:linear-gradient(120deg,#eee8ff,#ffe6ed);margin:12px 0}
+.mag-hero h2{border:0;margin:5px 0;color:#49358f;font-size:clamp(23px,3vw,31px)}
+.mag-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:11px;margin:12px 0}
+.mag-card{padding:15px;border-radius:17px;border:1px solid #ffffffd9;background:#fffdfb}
+.mag-card h3{margin:0 0 7px;color:#5d4b99;font-size:17px}
+.mag-card p{margin:7px 0;color:var(--muted);font-size:13px}
+.mag-card.lav{background:linear-gradient(145deg,#eee8ff,#fffdfb)}
+.mag-card.pink{background:linear-gradient(145deg,#ffe6ed,#fffdfb)}
+.mag-card.mint{background:linear-gradient(145deg,#def7ed,#fffdfb)}
+.mag-card.blue{background:linear-gradient(145deg,#e1f2ff,#fffdfb)}
+.mag-card.sun{background:linear-gradient(145deg,#fff2bf,#fffdfb)}
+.mag-wide{grid-column:1/-1}
+.tool-list{display:grid;gap:8px}
+.tool-list label{display:flex;gap:9px;align-items:flex-start;padding:9px 10px;border-radius:11px;background:#ffffffbd;font-size:13px}
+.tool-list input{margin-top:4px;accent-color:#765ec2}
+.quiz-options button{border:1px solid #cfc4ef;background:#fff;border-radius:11px;padding:9px 11px;margin:4px 4px 4px 0;color:var(--ink);cursor:pointer;font:inherit;font-size:13px}
+.quiz-answer{display:none;background:#e3f7ed;padding:12px;border-radius:12px;margin-top:8px;font-size:13px}
+.source-list{display:flex;gap:7px;flex-wrap:wrap}.source-list a{font-size:12px;background:#fff;padding:6px 9px;border-radius:999px}
+@media(max-width:650px){.gallery{grid-template-columns:1fr 1fr}.gallery figure:first-child{grid-column:1/-1}.gallery img{height:125px}.gallery figure:first-child img{height:165px}.mag-grid{grid-template-columns:1fr}.mag-wide{grid-column:auto}}
 </style></head><body><main>
 <header class="hero"><div class="eyebrow" id="eyebrow">YOUR PERSONAL PREGNANCY LIBRARY</div><h1 id="main-title">Baby Diary 🌷</h1><p id="intro">A ready-to-read daily pregnancy library in English and Lithuanian. Choose your due date and open any day.</p></header>
 <div class="controls"><div class="control"><label id="due-label" for="due-date">Your estimated due date</label><input type="date" id="due-date" value="2026-12-30"><div class="hint" id="due-hint">The library is pre-prepared; changing the date remaps the daily articles to your calendar.</div></div><div class="control"><label id="language-label" for="language">Language / Kalba</label><select id="language"><option value="en">English</option><option value="lt">Lietuvių</option></select><div class="hint" id="language-hint">The same library is available in both languages.</div></div></div>
@@ -25,7 +49,61 @@ function applyLang(){document.documentElement.lang=lang;document.title=lang==='l
 function updateDue(){if(!$('due-date').value)return;due=parse($('due-date').value);monthCursor=new Date(Date.UTC(due.getUTCFullYear(),due.getUTCMonth(),1));$('edd').textContent=dateLabel(due);const start=add(due,-280),today=parse(fmt(new Date())),offset=Math.floor((today-start)/86400000);$('age').textContent=offset>=0&&offset<=280?`${Math.floor(offset/7)}+${offset%7}`:'—';renderCalendar();renderArticle(selected||fmt(new Date()))}
 function renderCalendar(){if(!due)return;$('month-title').textContent=monthLabel(monthCursor);const first=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth(),1)),nDays=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth()+1,0)).getUTCDate(),offset=(first.getUTCDay()+6)%7,frag=document.createDocumentFragment(),start=add(due,-280),today=fmt(new Date());for(let i=0;i<offset;i++){const e=document.createElement('div');e.className='day empty';frag.appendChild(e)}for(let n=1;n<=nDays;n++){const d=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth(),n)),key=fmt(d),b=document.createElement('button');b.type='button';b.className='day pick';b.dataset.date=key;const idx=Math.floor((d-start)/86400000),inRange=idx>=0&&idx<=280;if(!inRange){b.disabled=true;b.style.opacity='.32'}if(key===selected)b.classList.add('selected');if(key===today)b.classList.add('today');const num=document.createElement('span');num.className='num';num.textContent=n;b.appendChild(num);const mini=document.createElement('span');mini.className='mini';mini.textContent=inRange?(idx===280?'40+0':`${Math.floor(idx/7)}+${idx%7}`):'';b.appendChild(mini);b.addEventListener('click',()=>{selected=key;renderCalendar();renderArticle(key)});frag.appendChild(b)}$('calendar').replaceChildren(frag)}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-function renderArticle(key){if(!library||!due||!key)return;selected=key;const d=parse(key),start=add(due,-280),idx=Math.floor((d-start)/86400000);$('article-title').textContent=dateLabel(d);if(idx<0||idx>280){$('stage-badge').textContent=t('notPregnant');$('article-meta').textContent='';$('article').innerHTML=`<div class="callout">${t('notPregnant')}</div>`;return}const weekIndex=Math.min(39,Math.floor(idx/7)),dayIndex=idx%7,week=library[lang].weeks[weekIndex],daily=library[lang].daily[dayIndex],labels=library[lang].labels;const ga=`${Math.floor(idx/7)}+${idx%7}`;$('stage-badge').textContent=`${t('week')} ${weekIndex+1} · ${ga}`;$('article-meta').textContent=`${t('age')}: ${ga} · ${t('rangeLabel')} ${idx}`;$('article').innerHTML=`<div class="callout"><strong>${esc(t('title'))}: ${esc(week.title)}</strong><br>${esc(dateLabel(d))} · ${esc(t('week'))} ${weekIndex+1}, ${ga}</div><h2>${esc(t('development'))}</h2><p>${esc(week.development)}</p><h2>${esc(t('wellbeing'))}</h2><p>${esc(week.wellbeing)}</p><h2>${esc(t('nutrition'))}</h2><p>${esc(week.nutrition)}</p><div class="day-card"><h2>${esc(t('daily'))}: ${esc(daily.title)}</h2><p>${esc(daily.text)}</p><p><strong>${esc(t('action'))}:</strong> ${esc(daily.takeaway)}</p></div><div class="question"><strong>${esc(t('question'))}</strong><p>${esc(week.question)}</p></div><h2>${esc(t('sources'))}</h2><p>${esc(t('sourceText'))}</p><p class="footer">${esc(t('disclaimer'))}</p>`}
+function renderArticle(key){
+ if(!library||!due||!key)return;
+ selected=key;
+ const d=parse(key),start=add(due,-280),idx=Math.floor((d-start)/86400000);
+ $('article-title').textContent=dateLabel(d);
+ if(idx<0||idx>280){
+   $('stage-badge').textContent=t('notPregnant');$('article-meta').textContent='';
+   $('article').innerHTML=`<div class="callout">${t('notPregnant')}</div>`;return;
+ }
+ const edition=library.languages[lang].days[idx];
+ if(!edition){$('article').innerHTML='<p>Daily edition not found.</p>';return;}
+ const weekIndex=edition.week-1, ga=edition.gestational_age;
+ $('stage-badge').textContent=`${t('week')} ${edition.week} · ${ga}`;
+ $('article-meta').textContent=`${t('age')}: ${ga} · ${t('rangeLabel')} ${idx}`;
+ const photoCaptions = lang==='lt'
+ ? ['Kasdienė pagalba nėštumo metu prasideda nuo mažų dalykų.','Įvairus maistas gali būti paprastas ir praktiškas.','Pasiruošimas saugiam kūdikio miegui.']
+ : ['Everyday support can make pregnancy feel more manageable.','Varied food can be practical, not complicated.','Plan ahead for a safe sleep space.'];
+ const sources=library.sources[lang].map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${esc(s.label)}</a>`).join('');
+ const title = lang==='lt' ? 'Nėštumo užrašai' : 'Pregnancy field notes';
+ const babyTitle = lang==='lt' ? 'Kūdikio raida' : 'Your baby & your body';
+ const wellbeingTitle = lang==='lt' ? 'Jūsų savijauta' : 'Your wellbeing';
+ const researchTitle = lang==='lt' ? 'Mokslo įžvalga' : 'Research deep dive';
+ const foodTitle = lang==='lt' ? 'Mitybos idėja' : 'Nutrition focus';
+ const lithTitle = lang==='lt' ? 'Praktinė informacija Lietuvoje' : 'Life in Lithuania';
+ const birthTitle = lang==='lt' ? 'Gimdymas ir naujagimio priežiūra' : 'Birth & newborn care';
+ const todayTitle = lang==='lt' ? 'Šiandienos dėmesys' : "Today's focus";
+ const checklistTitle = lang==='lt' ? 'Maži veiksmai šiandien' : 'Your small actions today';
+ const quizTitle = lang==='lt' ? 'Trumpas klausimas' : 'Interactive mini-quiz';
+ const quizOptions = edition.quiz_options.map((o,i)=>`<button type="button" onclick="showQuiz(${i})">${String.fromCharCode(65+i)}. ${esc(o)}</button>`).join('');
+ $('article').innerHTML = `
+ <div class="mag-hero"><span class="badge">${esc(lang==='lt'?'NĖŠTUMO DIENA':'DAILY EDITION')} · ${esc(lang==='lt'?'SAVAITĖ':'WEEK')} ${edition.week} · ${ga}</span>
+ <h2>${esc(edition.title)} 🌿</h2><p>${esc(edition.subtitle)} · ${esc(dateLabel(d))}</p>
+ <p>${esc(edition.theme_text||edition.theme_text)}</p></div>
+ <div class="gallery" aria-label="Pregnancy and family life images">
+ <figure><img src="assets/pregnancy-home.jpg" alt="${esc(lang==='lt'?'Nėštumo kasdienybė namuose':'Pregnancy and family life at home')}" loading="lazy"><figcaption>${esc(photoCaptions[0])}</figcaption></figure>
+ <figure><img src="assets/nutrition-bowl.jpg" alt="${esc(lang==='lt'?'Įvairus maistas':'A colourful balanced meal')}" loading="lazy"><figcaption>${esc(photoCaptions[1])}</figcaption></figure>
+ <figure><img src="assets/newborn-sleep.jpg" alt="${esc(lang==='lt'?'Naujagimis saugioje aplinkoje':'Newborn in a calm sleep space')}" loading="lazy"><figcaption>${esc(photoCaptions[2])}</figcaption></figure>
+ </div>
+ <div class="mag-grid">
+ <section class="mag-card lav"><h3>👶 ${esc(babyTitle)}</h3><p>${esc(edition.development)}</p><p><strong>${esc(lang==='lt'?'Naudingas žingsnis:':'Useful marker:')}</strong> ${esc(edition.daily_text)}</p></section>
+ <section class="mag-card pink"><h3>💗 ${esc(wellbeingTitle)}</h3><p>${esc(edition.wellbeing)}</p><p><strong>${esc(lang==='lt'?'Šiandien:':'Today:')}</strong> ${esc(edition.theme_action)}</p></section>
+ <section class="mag-card mint"><h3>🌿 ${esc(foodTitle)}: ${esc(edition.food_title)}</h3><p>${esc(edition.nutrition)}</p><p>${esc(edition.food_text)}</p></section>
+ <section class="mag-card blue"><h3>🔬 ${esc(researchTitle)}: ${esc(edition.research_title)}</h3><p>${esc(edition.research_text)}</p><p class="hint">${esc(lang==='lt'?'Įrodymų kontekstas svarbus; tai nėra individuali rekomendacija.':'Evidence needs context; this is not an individual recommendation.')}</p></section>
+ <section class="mag-card sun"><h3>🇱🇹 ${esc(lithTitle)}</h3><p>${esc(edition.lithuania)}</p><p>${esc(lang==='lt'?'Oficialūs šaltiniai pateikti žemiau.':'Official sources are linked below.')}</p></section>
+ <section class="mag-card lav"><h3>🍼 ${esc(birthTitle)}</h3><p>${esc(edition.newborn)}</p><p>${esc(lang==='lt'?'Klauskite savo priežiūros komandos, jei reikia individualių rekomendacijų.':'Ask your care team for advice tailored to your circumstances.')}</p></section>
+ <section class="mag-card pink mag-wide"><h3>✨ ${esc(todayTitle)}: ${esc(edition.theme_title)}</h3><p>${esc(edition.theme_text)}</p><p><strong>${esc(lang==='lt'?'Mažas veiksmas:':'Small action:')}</strong> ${esc(edition.action)}</p></section>
+ <section class="mag-card mag-wide"><h3>☑️ ${esc(checklistTitle)}</h3><div class="tool-list">${[edition.checklist,edition.theme_action,edition.action].map(x=>`<label><input type="checkbox"><span>${esc(x)}</span></label>`).join('')}</div></section>
+ <section class="mag-card blue mag-wide quiz-options"><h3>🧩 ${esc(quizTitle)}</h3><p>${esc(edition.quiz_question)}</p>${quizOptions}<div class="quiz-answer" id="quiz-answer">${esc(edition.quiz_answer)}</div></section>
+ <section class="mag-card mag-wide"><h3>💬 ${esc(lang==='lt'?'Klausimas specialistui':'Question for your care team')}</h3><p>${esc(edition.question)}</p></section>
+ <section class="mag-card mag-wide"><h3>📚 ${esc(lang==='lt'?'Išsamiau apie temą':'The deeper read')}</h3><p>${esc(edition.full_article.opening)}</p><p>${esc(edition.full_article.deep_dive)}</p></section>
+ <section class="mag-card mag-wide"><h3>🗓️ ${esc(lang==='lt'?'Praktinis planas':'Your practical plan')}</h3><div class="tool-list">${edition.full_article.practical_plan.map(x=>`<label><input type="checkbox"><span>${esc(x)}</span></label>`).join('')}</div><p><strong>${esc(lang==='lt'?'Apmąstymui:':'A moment to reflect:')}</strong> ${esc(edition.full_article.reflection)}</p></section>
+ <section class="mag-card mag-wide"><h3>🔗 ${esc(lang==='lt'?'Šaltiniai ir tolesnis skaitymas':'Sources & further reading')}</h3><div class="source-list">${sources}</div><p class="footer">${esc(lang==='lt'?library.disclaimer_lt:library.disclaimer_en)}</p></section>
+ </div>`;
+}
+function showQuiz(i){const el=$('quiz-answer');if(el){el.style.display='block';}}
 $('prev').addEventListener('click',()=>{monthCursor=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth()-1,1));renderCalendar()});$('next').addEventListener('click',()=>{monthCursor=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth()+1,1));renderCalendar()});$('due-date').addEventListener('change',updateDue);$('language').addEventListener('change',()=>{lang=$('language').value;applyLang()});
-fetch('content-library.json').then(r=>{if(!r.ok)throw new Error('content-library.json missing');return r.json()}).then(data=>{library=data;lang=$('language').value;applyLang();updateDue();selected=fmt(new Date());renderArticle(selected)}).catch(e=>{$('article').innerHTML=`<p>Could not load content library. Please ensure <code>content-library.json</code> is deployed next to <code>index.html</code>.</p>`});
+fetch('./content-library.json').then(r=>{if(!r.ok)throw new Error('content-library.json missing: '+r.status);return r.json()}).then(data=>{library=data;lang=$('language').value;applyLang();updateDue();selected=fmt(new Date());renderArticle(selected)}).catch(e=>{$('article').innerHTML='<p><strong>Could not load the daily library.</strong> '+esc(e.message||String(e))+'</p>';console.error(e)});
 </script></body></html>
