@@ -27,17 +27,3 @@ function renderCalendar(){if(!due)return;$('month-title').textContent=monthLabel
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function renderArticle(key){if(!library||!due||!key)return;selected=key;const d=parse(key),start=add(due,-280),idx=Math.floor((d-start)/86400000);$('article-title').textContent=dateLabel(d);if(idx<0||idx>280){$('stage-badge').textContent=t('notPregnant');$('article-meta').textContent='';$('article').innerHTML=`<div class="callout">${t('notPregnant')}</div>`;return}const weekIndex=Math.min(39,Math.floor(idx/7)),dayIndex=idx%7,week=library[lang].weeks[weekIndex],daily=library[lang].daily[dayIndex],labels=library[lang].labels;const ga=`${Math.floor(idx/7)}+${idx%7}`;$('stage-badge').textContent=`${t('week')} ${weekIndex+1} · ${ga}`;$('article-meta').textContent=`${t('age')}: ${ga} · ${t('rangeLabel')} ${idx}`;$('article').innerHTML=`<div class="callout"><strong>${esc(t('title'))}: ${esc(week.title)}</strong><br>${esc(dateLabel(d))} · ${esc(t('week'))} ${weekIndex+1}, ${ga}</div><h2>${esc(t('development'))}</h2><p>${esc(week.development)}</p><h2>${esc(t('wellbeing'))}</h2><p>${esc(week.wellbeing)}</p><h2>${esc(t('nutrition'))}</h2><p>${esc(week.nutrition)}</p><div class="day-card"><h2>${esc(t('daily'))}: ${esc(daily.title)}</h2><p>${esc(daily.text)}</p><p><strong>${esc(t('action'))}:</strong> ${esc(daily.takeaway)}</p></div><div class="question"><strong>${esc(t('question'))}</strong><p>${esc(week.question)}</p></div><h2>${esc(t('sources'))}</h2><p>${esc(t('sourceText'))}</p><p class="footer">${esc(t('disclaimer'))}</p>`}
 $('prev').addEventListener('click',()=>{monthCursor=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth()-1,1));renderCalendar()});$('next').addEventListener('click',()=>{monthCursor=new Date(Date.UTC(monthCursor.getUTCFullYear(),monthCursor.getUTCMonth()+1,1));renderCalendar()});$('due-date').addEventListener('change',updateDue);$('language').addEventListener('change',()=>{lang=$('language').value;applyLang()});
-const libraryUrl = new URL(
-  "./content-library.json",
-  window.location.href
-);
-
-const response = await fetch(libraryUrl);
-
-if (!response.ok) {
-  throw new Error(
-    `Could not load library: ${response.status} ${response.url}`
-  );
-}
-
-const library = await response.json();
